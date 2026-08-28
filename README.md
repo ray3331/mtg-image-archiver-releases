@@ -1,2 +1,9 @@
-# mtg-image-archiver-releases
-A tool to find and archive your mtg cards in png or pdf at the best quality possible
+# MTG Deck Image Archiver — Official Releases
+
+This repository contains official compiled releases of MTG Deck Image
+Archiver.
+
+The application source code is proprietary and is not published in this
+repository.
+
+Download the latest installer from the Releases section.
