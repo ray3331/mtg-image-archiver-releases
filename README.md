@@ -1,6 +1,6 @@
-# MTG Deck Image Archiver — Official Releases
+# MTG Image Archiver — Official Releases
 
-This repository contains official compiled releases of MTG Deck Image
+This repository contains official compiled releases of MTG Image
 Archiver.
 
 The application source code is proprietary and is not published in this
